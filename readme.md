@@ -1,4 +1,4 @@
-#AUTOMATIC WHEAT GRAIN QUALITY ESTIMATION
+# AUTOMATIC WHEAT GRAIN QUALITY ESTIMATION
 EE604A Image Processing course project
 
 NAM (National Agriculture Market) is an online portal introduced by the government, to connect all the farmers online
