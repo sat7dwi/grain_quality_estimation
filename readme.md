@@ -1,5 +1,5 @@
 # AUTOMATIC WHEAT GRAIN QUALITY ESTIMATION
-EE604A Image Processing course project
+EE604A Image Processing course project - Generated small dataset of different qualities of wheat grain by collecting samples from anaj mandi, Kanpur and developed a pipeline for segmenting and counting the number of grains and impurities to estimate sample quality.
 
 NAM (National Agriculture Market) is an online portal introduced by the government, to connect all the farmers online
 with the traders, so that farmers get the best price for their
